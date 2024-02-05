@@ -1,0 +1,52 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "stack": "HTML / CSS / Javascript",
+            "imgUrl":  "https://i.ibb.co/ctjYQhT/screencapture-ugochukwupeter-github-io-ark-stewart-co-2023-05-06-08-32-21.png",
+            "desc" : "Ark-Stewart & Co. Legal Page",
+            "url": "https://ugochukwupeter.github.io/ark-stewart-co/",
+            "build":"Built as Personal Project"
+        },
+        {
+            "id": 2,
+            "stack": "HTML / CSS / Javascript",
+            "imgUrl":  "https://i.ibb.co/m9Y82Fz/food-app.jpg",
+            "desc" : "food App",
+            "url": "https://ugochukwupeter.github.io/Food-App/",
+            "build":"Built as Personal Project"
+        },
+        {
+            "id": 3,
+            "stack": "React / Material UI / SASS",
+            "imgUrl":  "https://i.ibb.co/rvv5WBp/screencapture-localhost-3000-2024-01-03-14-35-18.png",
+            "desc" : "Blog-App-UI",
+            "url": "https://willowy-daffodil-22c912.netlify.app/",
+            "build":"Built as Personal Project"
+        },
+        {
+            "id": 4,
+            "stack": "HTML / CSS / Javascript",
+            "imgUrl":  "https://i.ibb.co/0GtYpq2/screencapture-ugochukwupeter-github-io-Bookmark-landing-page-2023-10-07-13-48-31.png",
+            "desc" : "Bookmark Landing page",
+            "url": "https://ugochukwupeter.github.io/Bookmark-landing-page/",
+            "build":"Built as Personal Project"
+        },
+        {
+            "id": 5,
+            "stack": "HTML / CSS / Javascript",
+            "imgUrl":  "https://i.ibb.co/smPv6DZ/screencapture-ugochukwupeter-github-io-age-calculator-app-main-2023-05-07-02-05-24-1.png",
+            "desc" : "age-calculator-app",
+            "url": "https://ugochukwupeter.github.io/age-calculator-app-main/",
+            "build":"Built as Personal Project"
+        },
+        {
+            "id": 6,
+            "stack": "HTML / CSS / Javascript",
+            "imgUrl":  "https://i.ibb.co/dPbH1fM/screencapture-ugochukwupeter-github-io-gpacalculator-github-io-2023-05-07-02-14-20-1.png",
+            "desc" : "GPA Calculator",
+            "url": "https://ugochukwupeter.github.io/gpacalculator.github.io/",
+            "build":"Built as Personal Project"
+        }
+    ]
+}

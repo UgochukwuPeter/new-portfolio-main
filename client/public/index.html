@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="My portfolio page detailing skills and various projects done in Web Development"
+    />
+    <title>Ugochukwu Peter</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300,900&family=Vina+Sans&display=swap" rel="stylesheet">
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  <style>
+      *{
+        margin:0;
+        padding:0;
+        box-sizing: border-box;
+        scroll-behavior: smooth;
+      }
+      .body{
+        position: relative;
+        
+      }
+      .loader{
+        border: 16px solid #f3f3f3;
+        border-top: 16px solid #2f7693;
+        border-radius: 50%;
+        height: 130px;
+        width: 130px;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        animation: spin 2s linear infinite
+      }
+      @keyframes spin{
+        0%{transform:rotate(0deg);}
+        100%{transform: rotate(360deg);}
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!---Loading Spinner Div-->
+    <div class="loader-container">
+      <div class="loader"></div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init("user_3C04jo8KJMdrjHykBDRsM");
+   })();
+</script>
+  </body>
+</html>

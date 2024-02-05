@@ -1,0 +1,37 @@
+.newProject{
+    font-family: 'Roboto',sans-serif;
+    padding: 2rem 3rem;
+}
+.new-project-form{
+    width:70%;
+    margin:0 auto;
+    display:flex;
+    justify-content: space-between;
+    gap:2rem;
+}
+.new-project-file>input{
+    border:none;
+}
+.new-project-file>input:hover{
+    border:none;
+}
+.project-skills>input{
+    width:20%;
+    padding:.4rem;
+    border:1px solid grey;
+}
+@media(max-width:600px){
+    .newProject{
+        padding: 2rem;
+    }
+    .new-project-form{
+        width:100%;
+        flex-direction: column;
+    }
+    .new-project-file>input{
+        margin: .6rem 0;
+    }
+    .project-skills>input{
+        width:30%;
+    }
+}
