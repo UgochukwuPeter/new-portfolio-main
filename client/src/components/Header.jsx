@@ -50,7 +50,6 @@ const Header = () => {
                         <a href="./UGOCHUKWU-PETER CV-Updated.pdf" download='UGOCHUKWU-PETER CV-Updated.pdf'>
                         <button>Resume</button>
                         </a>
-                        
                     </div>
                 </div>
                 
